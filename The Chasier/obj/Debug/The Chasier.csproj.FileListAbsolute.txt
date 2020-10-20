@@ -1,0 +1,30 @@
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\bin\Debug\The Chasier.exe.config
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\bin\Debug\The Chasier.exe
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\bin\Debug\The Chasier.pdb
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.csprojAssemblyReference.cache
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\MainWindow.g.cs
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\App.g.cs
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier_MarkupCompile.cache
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier_MarkupCompile.lref
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\MainWindow.baml
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.g.resources
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The_Chasier.Properties.Resources.resources
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.csproj.GenerateResource.cache
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.csproj.CoreCompileInputs.cache
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.exe
+C:\Users\gamers\Desktop\The-Cashier-89e21f88b8e2853d2a6059c54c7b69f8bfe9dc49\The Chasier\obj\Debug\The Chasier.pdb
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\bin\Debug\The Chasier.exe.config
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\bin\Debug\The Chasier.exe
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\bin\Debug\The Chasier.pdb
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.csprojAssemblyReference.cache
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\MainWindow.g.cs
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\App.g.cs
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier_MarkupCompile.cache
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier_MarkupCompile.lref
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\MainWindow.baml
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.g.resources
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The_Chasier.Properties.Resources.resources
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.csproj.GenerateResource.cache
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.csproj.CoreCompileInputs.cache
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.exe
+C:\Users\gamers\source\repos\Pemrograman 2020\The Cashier\The Chasier\obj\Debug\The Chasier.pdb
